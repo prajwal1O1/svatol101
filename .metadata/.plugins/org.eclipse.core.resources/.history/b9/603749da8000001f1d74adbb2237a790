@@ -1,0 +1,5 @@
+package com.mydata.controller;
+
+public class ContactController {
+
+}

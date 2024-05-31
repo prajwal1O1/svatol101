@@ -1,0 +1,5 @@
+package com.mydata.Repository;
+
+public class ContactRepository {
+
+}
